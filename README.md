@@ -2,6 +2,11 @@
 *A modern Patient Information Management System*
 INEW 2332 Final Project - STAR PIMS - Patient Information Management System
 
+<p align="center">
+  <img src="https://github.com/cfdulce/STAR_PIMS_Web/blob/main/Health%20MAnagement.jpg?raw=true" alt="Project Logo" width="300" height="300">
+</p>
+
+
 ## 🚀 Features
 ✔ **Patient Registration & Management**  
 ✔ **Medical History Tracking**  
